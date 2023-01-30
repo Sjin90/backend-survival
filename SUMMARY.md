@@ -7,3 +7,6 @@
 
 ## 효과적인 학습법
 * [미라클모닝](miracle-morning.md)
+
+## 추가 테스트 진행 
+* [아주작은습관의힘](atomic-habits.md)
