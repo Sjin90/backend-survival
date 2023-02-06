@@ -3,8 +3,8 @@
 ## DEV_NOTE
 * [백엔드생존코스](README.md)
   * [1주차 HTTP](/backend_1st/1st_main.md)
-    * [1. HTTP의 이해](/backend_1st/1st_1.md)
-    * [2. HTTP의 Client](/backend_1st/1st_2.md)
-    * [3. HTTP의 Server](/backend_1st/1st_3.md)
-    * [4. Java HTTP Server](/backend_1st/1st_4.md)
-    * [5. Spring Web MVC](/backend_1st/1st_5.md)
+    * [# 1. HTTP의 이해](/backend_1st/1st_1.md)
+    * [# 2. HTTP의 Client](/backend_1st/1st_2.md)
+    * [# 3. HTTP의 Server](/backend_1st/1st_3.md)
+    * [# 4. Java HTTP Server](/backend_1st/1st_4.md)
+    * [# 5. Spring Web MVC](/backend_1st/1st_5.md)
