@@ -8,3 +8,5 @@
     * [# 3. HTTP의 Server](/backend_1st/1st_3.md)
     * [# 4. Java HTTP Server](/backend_1st/1st_4.md)
     * [# 5. Spring Web MVC](/backend_1st/1st_5.md)
+  * [2주차 REST API](/backend_2st/2st_main.md)
+    * [# 1. REST API](/backend_2st/2st_1.md)
