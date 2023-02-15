@@ -14,3 +14,8 @@
     * [# 3. Collection Pattern](/backend_2st/2st_3.md)
     * [# 4. CQS](/backend_2st/2st_4.md)
     * [# 5. Spring Web MVC로 구현](/backend_2st/2st_5.md)
+  * [3주차  DTO & JSON & CORS](/backend_3st/3st_main.md)
+    * [# 1. DTO](/backend_3st/3st_1.md)
+    * [# 2. 직렬화](/backend_3st/3st_2.md)
+    * [# 3. Jackson](/backend_3st/3st_3.md)
+    * [# 4. CQRS](/backend_3st/3st_4.md)
