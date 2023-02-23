@@ -19,3 +19,7 @@
     * [# 2. 직렬화](/backend_3st/3st_2.md)
     * [# 3. Jackson](/backend_3st/3st_3.md)
     * [# 4. CQRS](/backend_3st/3st_4.md)
+  * [4주차  Layered Architecture](/backend_4st/4st_main.md)
+    * [# 1. Layered Architecture](/backend_4st/4st_1.md)
+    * [# 2. Data Access](/backend_4st/4st_2.md)
+    * [# 3. Domain Model](/backend_4st/4st_3.md)
