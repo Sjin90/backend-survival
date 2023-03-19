@@ -38,3 +38,7 @@
     * [# 6-6](backend\_6st/6st\_6.md)
   * [7주차 JPA](dev\_note/readme/7-jpa/README.md)
     * [7-1. ORM](dev\_note/readme/7-jpa/7-1.-orm.md)
+    * [7-2.Hibernate](dev\_note/readme/7-jpa/7-2.hibernate.md)
+    * [7-3.Embeddable](dev\_note/readme/7-jpa/7-3.embeddable.md)
+    * [7-4.Relationship Mapping](dev\_note/readme/7-jpa/7-4.relationship-mapping.md)
+    * [7-5.Spring Data JPA](dev\_note/readme/7-jpa/7-5.spring-data-jpa.md)
