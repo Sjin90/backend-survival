@@ -3,6 +3,12 @@
 ## DEV\_NOTE
 
 * [백엔드생존코스](README.md)
+  * [8주차 도메인 주도 설계](dev\_note/readme/8/README.md)
+    * [8-5.Repository](dev\_note/readme/8/8-5.repository.md)
+    * [8-4.Aggregate](dev\_note/readme/8/8-4.aggregate.md)
+    * [8-3.Entity, Value Object](dev\_note/readme/8/8-3.entity-value-object.md)
+    * [8-2.Strategic Design](dev\_note/readme/8/8-2.strategic-design.md)
+    * [8-1. DDD](dev\_note/readme/8/8-1.-ddd.md)
   * [1주차 HTTP](backend\_1st/1st\_main.md)
     * [# 1. HTTP의 이해](backend\_1st/1st\_1.md)
     * [# 2. HTTP의 Client](backend\_1st/1st\_2.md)
