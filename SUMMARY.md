@@ -48,3 +48,5 @@
     * [7-3.Embeddable](dev\_note/readme/7-jpa/7-3.embeddable.md)
     * [7-4.Relationship Mapping](dev\_note/readme/7-jpa/7-4.relationship-mapping.md)
     * [7-5.Spring Data JPA](dev\_note/readme/7-jpa/7-5.spring-data-jpa.md)
+  * [12주차 CQRS](dev\_note/readme/12-cqrs/README.md)
+    * [1.CQRS](dev\_note/readme/12-cqrs/1.cqrs.md)
